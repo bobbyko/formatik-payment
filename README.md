@@ -1,1 +1,1 @@
-# formatik-webtool-payment
+# formatik-payment
